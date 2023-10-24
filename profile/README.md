@@ -1,6 +1,7 @@
 
 ## 덕성여자대학교 전공 정보 교류 및 전공 선택 도움 서비스, Ol-In
 
+![App service introduction_ Ol-In](https://github.com/DS-Millennium-Baby/.github/assets/79989242/3716047d-9994-47c5-a4ab-ec912bdd24de)
 
 <div align="center">
 	
