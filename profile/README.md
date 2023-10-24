@@ -11,7 +11,7 @@
 
 ### Introduction
 > 제1회 덕성여자대학교 IT전공 연합 해커톤: Draw Forth Synergy <br />
-> 개발 기간: 2023.08.22 ~ 2023.08.26
+> 개발 기간: 2022.08.22 ~ 2022.08.26
 
 ### Link
 > Figma: [Go to Figma Project](https://www.figma.com/file/eb4Aww5IP8CMDF44FBRf9a/%EC%95%B1-UI-%EB%94%94%EC%9E%90%EC%9D%B8?type=design&node-id=0%3A1&mode=design&t=urAm7KQfjTfUbgjB-1) <br />
@@ -24,7 +24,7 @@
 > Node.js server: https://github.com/DS-Millennium-Baby/back-end <br/>
 
 ## Table of contents
-- [We are Team, Narsha!](#we-are-team-narsha)
+- [Team Ol-In](#team-ol-in)
 - [Features](#features)
 - [Tech stack](#tech-stack)
 - [Installation](#installation)
@@ -51,10 +51,8 @@
  <br />
 
 
-- Client: <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/> <br />
-- Server: <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=black"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=black"/> <br />
-- AI-Server: <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/yolo-00ffff?style=flat-square&logo=yolo&logoColor=white"/> <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <br />
-- Deploy: <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> <br />
+- Client: <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <br />
+- Server: <img src="https://img.shields.io/badge/Node.js-6DB33F?style=flat-square&logo=nodedotjs&logoColor=black"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=black"/> <br />
 
 ## Installation
 
@@ -62,6 +60,11 @@
 For building and running the application you need:
 - Node.js 16.17.0
 - Npm 8.15.0
+- Adnroid API 33
+- Android 10.0(Q)
+- Android SDK Build-Tools 34
+- Android Emulator 32.1.13
+- Intel x86 Emulator Acelerator (HAXM Installer) 7.6.5
 
 ### Client
 ```
