@@ -44,12 +44,19 @@
 |Client, Server|Client|Client|Product Design|
 
 ## Features
-
+* 유저 관리
+   * 회원가입, 로그인
+   * 전공 정보(제1전공, 제2전공) 기입 
+* 전공 커뮤니티
+   * 전공 Q&A  
+   * 전공별 TIP 공유 
+* 전공 정보 페이지
+   * 전공별 정보 확인 페이지
+   * 전공 FAQ: 전공 선택 제도와 제1전공, 제2전공에 관련된 가이드 정리 
 
 ## Tech stack
 
- <br />
-
+![image](https://github.com/DS-Millennium-Baby/.github/assets/79989242/4c4d2865-2d4d-4623-a25e-9b5350890382)
 
 - Client: <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <br />
 - Server: <img src="https://img.shields.io/badge/Node.js-6DB33F?style=flat-square&logo=nodedotjs&logoColor=black"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=black"/> <br />
